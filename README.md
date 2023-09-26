@@ -1,9 +1,7 @@
-**[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)]
 <h1 align="center">Welcome🌻, I'm Aryan Varale</h1>
 <h3 align="center">An engineering student with keen interest in Web-Development</h3>
 <img align="right" width="350" src="https://school.mangoanimate.com/wp-content/uploads/2023/06/Top-8-animated-text-gif-maker-software-for-stunning-text-animation.webp">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaaryaannn&label=Profile%20views&color=0e75b6&style=flat" alt="aaaaryaannn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaaaryaannn" alt="aaaaryaannn" /></a> </p>
 
