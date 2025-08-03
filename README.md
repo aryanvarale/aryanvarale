@@ -1,6 +1,6 @@
 # Hello world! I am Aryan Varale 👾.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/aryanvarale.png" alt="Badge for TryHackMe" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3574887" style='border:none;'></iframe>
 
 I’m a cybersecurity enthusiast, full-stack developer, and constant learner. My work focuses on building secure systems, automating threat detection, and combining artificial intelligence with real-world use cases. I enjoy solving problems that demand both creativity and precision.
 
