@@ -1,4 +1,4 @@
-# Hello world! I am Aryan Varale 👾.
+# Hello world! I am riya 👾.
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/aryanvarale.png" alt="Badge for TryHackMe" />](https://tryhackme.com/p/aryanvarale)
 
